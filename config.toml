@@ -3,7 +3,7 @@ title = "Gandal Lab"
 copyright = "&copy; 2017 Michael Gandal"
 theme = "academic"
 enableEmoji = true
-publishDir = "docs"
+publishDir = "."
 footnotereturnlinkcontents = "<sup>^</sup>"
 
 # Enable comments by entering your Disqus shortname
