@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Gandal Lab</title>
+    <link>https://gandallab.github.io/publication/</link>
+    <description>Recent content in Publications on Gandal Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Michael Gandal</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The road to precision psychiatry: translating genetics into disease mechanisms.</title>
+      <link>https://gandallab.github.io/publication/road-to-precision-psychiatry/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gandallab.github.io/publication/road-to-precision-psychiatry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared molecular neuropathology across major psychiatric disorders parallels polygenic overlap</title>
+      <link>https://gandallab.github.io/publication/cross-disorder/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gandallab.github.io/publication/cross-disorder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chromosome conformation elucidates regulatory relationships in developing human brain</title>
+      <link>https://gandallab.github.io/publication/fetal-brain-hic/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gandallab.github.io/publication/fetal-brain-hic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide changes in lncRNA, splicing, and regional gene expression patterns in autism</title>
+      <link>https://gandallab.github.io/publication/asd-3region-rnaseq/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gandallab.github.io/publication/asd-3region-rnaseq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
