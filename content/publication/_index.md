@@ -10,3 +10,6 @@ image = ""
 caption = ""
 detailed_list=true
 +++
+
+Full list of publications on NCBI
+https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/41240556/?sort=date&direction=descending

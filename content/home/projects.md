@@ -24,4 +24,8 @@ view = 1
 
 +++
 
-Hasdfads
+Our research has three major areas of focus:
+
+1. Large-scale population genetics of neuropsychiatric disease
+2. Functional genomics/transcriptomics investigation of psychiatric disease mechanisms in human brain
+3. Proof-of-principle clinical trials & translational neuroscience

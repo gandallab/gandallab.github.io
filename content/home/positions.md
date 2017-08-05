@@ -18,10 +18,10 @@ The Gandal Lab is expanding! We are looking for highly motivated individuals at 
 
 
 **Postdocs**
-Our lab utilizes a broad range of models and techniques, we are looking for a highly motivated individual with a PhD or MD (or both!) with background in Genetics, Neuroscience, Computer Science, Bioinformatics, or any related fields. For inquiries please contact the PI directly. To apply please send a full CV, three professional references, and a brief statement of scientific interest to mgandal@mednet.ucla.edu
+- Our lab utilizes a broad range of models and techniques, we are looking for a highly motivated individual with a PhD or MD (or both!) with background in Genetics, Neuroscience, Computer Science, Bioinformatics, or any related fields. For inquiries please contact the PI directly. To apply please send a full CV, three professional references, and a brief statement of scientific interest to mgandal@mednet.ucla.edu
 
 **Graduate students**
-Any PhD or Masters degree candidates at UCLA who might have interest in working in the lab should contact the PI directly (mgandal@mednet.ucla.edu) to discuss rotation projects.   
+- Any PhD or Masters degree candidates at UCLA who might have interest in working in the lab should contact the PI directly (mgandal@mednet.ucla.edu) to discuss rotation projects.   
 
 **Research staff**
 

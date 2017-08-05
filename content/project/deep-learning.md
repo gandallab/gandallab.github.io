@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Deep Learning"
+title = "Microglial Activation as a Therapeutic Target in ASD"
 
 # Project summary to display on homepage.
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
