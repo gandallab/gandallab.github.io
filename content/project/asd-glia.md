@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/cross-disorder.png"
+image = "headers/ASD-glia-header.jpg"
 caption = " "
 
 +++
