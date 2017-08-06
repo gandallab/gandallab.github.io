@@ -8,7 +8,7 @@ highlight = false
 [header]
 image = ""
 caption = ""
-detailed_list=true
+detailed_list=false
 +++
 
 Full list of publications on NCBI

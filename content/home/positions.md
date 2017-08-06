@@ -14,17 +14,14 @@ weight = 6
 
 +++
 
-The Gandal Lab is expanding! We are looking for highly motivated individuals at all levels of training to join our team using cutting edge genetic and genomic approaches to unravel the neurobiological architecture of autism and schizophrenia.
+The Gandal Lab is expanding! We are looking for highly motivated individuals at all levels of training to join our team.
 
+### Postdocs
+We are looking for highly motivated individuals with an MD and/or PhD to lead a project integrating RNAseq from ASD brain with genetic and epigenetic measures to develop an integrative, systems-level view of the molecular neuropathology of disease. Candidates with a background in Genetics, Neuroscience, Computer Science, Bioinformatics, or related fields are encouraged to apply.
+Please send a full CV, three professional references, and a brief statement of scientific interest to mgandal@mednet.ucla.edu
 
-**Postdocs**
-- Our lab utilizes a broad range of models and techniques, we are looking for a highly motivated individual with a PhD or MD (or both!) with background in Genetics, Neuroscience, Computer Science, Bioinformatics, or any related fields. For inquiries please contact the PI directly. To apply please send a full CV, three professional references, and a brief statement of scientific interest to mgandal@mednet.ucla.edu
+### Research staff
+We are looking to hire a staff research assistant with a BS in bioinformatics, computer science, or analogous experience to assist in large-scale computational and statistical analyses across multiple projects in the lab. No direct experience is necessary other than proficiency with computing and familiarity with unix. 2+ year commitment is preferred. Research assistants are expected to be co-authors on laboratory manuscripts. Dr. Gandal places a strong emphasis on mentorship, with previous research assistants matriculating into graduate programs at Columbia, NYU, and UCLA, among others.
 
-**Graduate students**
-- Any PhD or Masters degree candidates at UCLA who might have interest in working in the lab should contact the PI directly (mgandal@mednet.ucla.edu) to discuss rotation projects.   
-
-**Research staff**
-
-**Undergraduate researchers**
-
-Please email mgandal@mednet.ucla.edu if you would like to talk about current opportunities to join the Gandal Lab.
+### Undergraduate Student Researchers
+Please contact Dr. Gandal to discuss current opportunities to join the Lab.

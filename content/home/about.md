@@ -39,4 +39,4 @@ weight = 1
 
 # Biography
 
-I am an Assistant Professor in the Department of Psychiatry and Biobehavioral Sciences at UCLA and the Semel Institute for Neuroscience and Human Behavior. Our group uses systems-level, functional genomic approaches to understand the neurobiological mechanisms contributing to schizophrenia and autism spectrum disorders.
+I am an Assistant Professor in the Department of Psychiatry and Biobehavioral Sciences at UCLA and the Semel Institute for Neuroscience and Human Behavior. Our group uses systems-level, genetic and genomic approaches to understand the neurobiological mechanisms underlying schizophrenia, autism, and related neurodevelopmental psychiatric disorders. 

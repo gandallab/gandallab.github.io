@@ -15,5 +15,5 @@ weight = 3
 
 
 
-|![alt text](/img/jill3.png "Jill Haney")  <br/> **Jill Haney** <br/> *PhD student in Neuroscience* |  ![alt text](/img/sep2.jpg "xx")  <br/> **Sep Parhami** <br/> *Research Assistant*|
+|![alt text](/img/jill3.png "Jill Haney")  <br/> **Jill Haney** <br/> *PhD student in Neuroscience* |  ![alt text](/img/sep3.png "xx")  <br/> **Sep Parhami** <br/> *Research Assistant*|
 |:---:|:---:|
