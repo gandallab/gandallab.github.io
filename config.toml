@@ -1,5 +1,5 @@
 baseurl = "https://gandallab.github.io/"  # End your URL with a `/` trailing slash.
-title = "Gandal Lab"
+title = "Gandal Lab @ UCLA"
 copyright = "&copy; 2017 Michael Gandal"
 theme = "academic"
 enableEmoji = true
