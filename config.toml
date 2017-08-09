@@ -126,6 +126,10 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
+  [params.carousel]
+      enable = false
+
+
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
@@ -196,3 +200,7 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
+
+  [params.slider]
+    enable = true
+    num_features = 6 # The slider picks up the banner images from the N most recent posts, where num_features is N.
