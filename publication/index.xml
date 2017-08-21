@@ -29,20 +29,29 @@
     </item>
     
     <item>
-      <title>Chromosome conformation elucidates regulatory relationships in developing human brain</title>
-      <link>https://gandallab.github.io/publication/fetal-brain-hic/</link>
-      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gandallab.github.io/publication/fetal-brain-hic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Genome-wide changes in lncRNA, splicing, and regional gene expression patterns in autism</title>
       <link>https://gandallab.github.io/publication/asd-3region-rnaseq/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://gandallab.github.io/publication/asd-3region-rnaseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems biology and gene networks in neurodevelopmental and neurodegenerative disorders.</title>
+      <link>https://gandallab.github.io/publication/systems-biology-nrg-review/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gandallab.github.io/publication/systems-biology-nrg-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chromosome conformation elucidates regulatory relationships in developing human brain</title>
+      <link>https://gandallab.github.io/publication/fetal-brain-hic/</link>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://gandallab.github.io/publication/fetal-brain-hic/</guid>
       <description></description>
     </item>
     
