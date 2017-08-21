@@ -15,5 +15,5 @@ weight = 3
 
 
 
-|![alt text](/img/jill3.png "Jill")  <br/>**Jill Haney**<br/> *PhD student in Neuroscience* <br> <li>BS in Mathematics, UCLA, 2014|  ![alt text](/img/sep3.png "Sep")  <br/> **Sep Parhami** <br/> *Research Assistant*<br><li>BS in Neuroscience, UCLA, 2016|
-|:---:|:---:|
+|![alt text](/img/jill3.png "Jill")  <br/>**Jill Haney**<br/> *PhD student in Neuroscience* <br> <li>BS in Mathematics, UCLA, 2014|  ![alt text](/img/sep3.png "Sep")  <br/> **Sep Parhami** <br/> *Staff Research  Assistant*<br><li>BS in Neuroscience, UCLA, 2016<br></br>|![alt text](/img/chase.png "Sep")  <br/> **Chase Wang** <br/> *Undergraduate Research Assistant*<br><li>University of Hong Kong|
+|:---:|:---:|----|
